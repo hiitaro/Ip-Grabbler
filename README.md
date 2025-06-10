@@ -59,6 +59,10 @@
 ]
 ```
 
+## 🤖Bot output:
+
+![Interface Example](docs/screenshot.png)
+
 ## ⚠️Warning
 
 - Use for educational purposes and on your own resources only.
