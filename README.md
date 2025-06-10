@@ -20,6 +20,11 @@
 ## 🛠️Setup
 
 1. Install dependencies:
+    git clone:
+    ```sh
+    git clone https://github.com/hiitaro/Ip-Grabbler.git
+    cd Ip-Grabbler
+    ```
     ```sh
     pip install flask requests
     ```
@@ -27,12 +32,12 @@
     ```sh
     pip install -r requirements.txt
     ```
-3. Set your Telegram token and chat_id in the `TELEGRAM_TOKEN` and `TELEGRAM_CHAT_ID` variables in [`ipgrabbler.py`](ipgrabbler.py).
-4. Run the application:
+2. Set your Telegram token and chat_id in the `TELEGRAM_TOKEN` and `TELEGRAM_CHAT_ID` variables in [`ipgrabbler.py`](ipgrabbler.py).
+3. Run the application:
     ```sh
     python ipgrabbler.py
     ```
-5. Open `http://localhost:5000/` in your browser.
+4. Open `http://localhost:5000/` in your browser.
 
 ---
 
